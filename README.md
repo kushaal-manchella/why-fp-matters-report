@@ -1,6 +1,6 @@
 # why-fp-matters-report
 
-This repository serves as the CS 411 Final Project by Kushaal Manchella on the paper "why functional programming matters". PDF Link of the research paper can be found at https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+This repository serves as the CS 421 Final Project by Kushaal Manchella on the paper "why functional programming matters". PDF Link of the research paper can be found at https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
 
 Contents:
 
